@@ -1,0 +1,537 @@
+name:     NIAC Action
+abbrev:   NIAC
+homepage: https://www.niacaction.org/
+link:     https://www.niacaction.org/house-scorecard-map/
+updated:  2017-08-25
+based-on: based on votes in the 115th Congress
+type:     grade
+...
+412601	F	AL 1 R Byrne
+412394	F	AL 2 R Roby
+400341	F	AL 3 R Rogers
+400004	F	AL 4 R Aderholt
+412395	F	AL 5 R Brooks
+412608	F	AL 6 R Palmer
+412396	A	AL 7 D Sewell
+400440	F	AK 1 R Young
+412682	F	AZ 1 D O'Halleran
+412611	F	AZ 2 R McSally
+400162	A	AZ 3 D Grijalva
+412397	F	AZ 4 R Gosar
+412683	F	AZ 5 R Biggs
+412399	F	AZ 6 R Schweikert
+412612	A	AZ 7 D Gallego
+400141	F	AZ 8 R Franks
+412509	F	AZ 9 D Sinema
+412400	F	AR 1 R Crawford
+412609	F	AR 2 R Hill
+412402	F	AR 3 R Womack
+412610	F	AR 4 R Westerman
+412510	F	CA 1 R LaMalfa
+412511	A	CA 2 D Huffman
+412382	A	CA 3 D Garamendi
+412295	F	CA 4 R McClintock
+400403	A	CA 5 D Thompson
+400663	A	CA 6 D Matsui
+412512	A	CA 7 D Bera
+412513	F	CA 8 R Cook
+412189	A	CA 9 D McNerney
+412403	F	CA 10 R Denham
+412613	A	CA 11 D DeSaulnier
+400314	A	CA 12 D Pelosi
+400237	A	CA 13 D Lee
+412259	A	CA 14 D Speier
+412514	A	CA 15 D Swalwell
+400618	F	CA 16 D Costa
+412684	A	CA 17 D Khanna
+400124	A	CA 18 D Eshoo
+400245	A	CA 19 D Lofgren
+412685	A	CA 20 D Panetta
+412515	F	CA 21 R Valadao
+400297	F	CA 22 R Nunes
+412190	F	CA 23 R McCarthy
+412686	A	CA 24 D Carbajal
+412614	F	CA 25 R Knight
+412516	A	CA 26 D Brownley
+412379	A	CA 27 D Chu
+400361	A	CA 28 D Schiff
+412517	A	CA 29 D Cárdenas
+400371	A	CA 30 D Sherman
+412615	A	CA 31 D Aguilar
+400290	A	CA 32 D Napolitano
+412616	A	CA 33 D Lieu
+412617	A	CA 35 D Torres
+412519	A	CA 36 D Ruiz
+412404	A	CA 37 D Bass
+400355	A	CA 38 D Sánchez
+400348	F	CA 39 R Royce
+400347	A	CA 40 D Roybal-Allard
+412520	A	CA 41 D Takano
+400057	F	CA 42 R Calvert
+400422	A	CA 43 D Waters
+412687	A	CA 44 D Barragán
+412618	F	CA 45 R Walters
+412688	A	CA 46 D Correa
+412521	A	CA 47 D Lowenthal
+400343	F	CA 48 R Rohrabacher
+400196	F	CA 49 R Issa
+412283	F	CA 50 R Hunter
+412522	A	CA 51 D Vargas
+412523	A	CA 52 D Peters
+400097	A	CA 53 D Davis
+400101	A	CO 1 D DeGette
+412308	A	CO 2 D Polis
+412405	F	CO 3 R Tipton
+412619	F	CO 4 R Buck
+412191	F	CO 5 R Lamborn
+412271	F	CO 6 R Coffman
+412192	A	CO 7 D Perlmutter
+400233	A	CT 1 D Larson
+412193	A	CT 2 D Courtney
+400103	A	CT 3 D DeLauro
+412282	A	CT 4 D Himes
+412524	A	CT 5 D Esty
+412689	A	DE AL D Blunt Rochester
+412690	F	FL 1 R Gaetz
+412691	F	FL 2 R Dunn
+412525	F	FL 3 R Yoho
+412692	F	FL 4 R Rutherford
+412693	A	FL 5 D Lawson
+412526	F	FL 6 R DeSantis
+412694	A	FL 7 D Murphy
+412309	F	FL 8 R Posey
+412695	A	FL 9 D Soto
+412696	A	FL 10 D Demings
+412410	F	FL 11 R Webster
+412250	F	FL 12 R Bilirakis
+412697	A	FL 13 D Crist
+412195	A	FL 14 D Castor
+412411	F	FL 15 R Ross
+412196	F	FL 16 R Buchanan
+412311	F	FL 17 R Rooney
+412698	F	FL 18 R Mast
+412699	F	FL 19 R Rooney
+400170	A	FL 20 D Hastings
+412529	A	FL 21 D Frankel
+412385	A	FL 22 D Deutch
+400623	A	FL 23 D Wasserman Schultz
+412412	A	FL 24 D Wilson
+400108	F	FL 25 R Diaz-Balart
+412621	F	FL 26 R Curbelo
+400344	F	FL 27 R Ros-Lehtinen
+412622	F	GA 1 R Carter
+400030	A	GA 2 D Bishop
+412700	F	GA 3 R Ferguson
+412199	A	GA 4 D Johnson
+400240	A	GA 5 D Lewis
+412416	F	GA 7 R Woodall
+412417	F	GA 8 R Scott
+412531	F	GA 9 R Collins
+412623	F	GA 10 R Hice
+412624	F	GA 11 R Loudermilk
+412625	F	GA 12 R Allen
+400363	F	GA 13 D Scott
+412388	F	GA 14 R Graves
+412418	A	HI 1 D Hanabusa
+412532	A	HI 2 D Gabbard
+412419	F	ID 1 R Labrador
+400376	F	ID 2 R Simpson
+400350	A	IL 1 D Rush
+412595	A	IL 2 D Kelly
+400630	A	IL 3 D Lipinski
+400163	A	IL 4 D Gutiérrez
+412331	A	IL 5 D Quigley
+412202	F	IL 6 R Roskam
+400093	A	IL 7 D Davis
+412701	A	IL 8 D Krishnamoorthi
+400360	A	IL 9 D Schakowsky
+412534	A	IL 10 D Schneider
+412257	A	IL 11 D Foster
+412629	F	IL 12 R Bost
+412536	F	IL 13 R Davis
+412422	F	IL 14 R Hultgren
+400373	F	IL 15 R Shimkus
+412421	F	IL 16 R Kinzinger
+412537	A	IL 17 D Bustos
+412674	F	IL 18 R LaHood
+400417	A	IN 1 D Visclosky
+412538	F	IN 2 R Walorski
+412702	F	IN 3 R Banks
+412426	F	IN 4 R Rokita
+412539	F	IN 5 R Brooks
+412540	F	IN 6 R Messer
+412258	A	IN 7 D Carson
+412427	F	IN 8 R Bucshon
+412703	F	IN 9 R Hollingsworth
+412627	F	IA 1 R Blum
+412209	A	IA 2 D Loebsack
+412628	F	IA 3 R Young
+400220	F	IA 4 R King
+412704	F	KS 1 R Marshall
+412284	F	KS 2 R Jenkins
+412430	F	KS 3 R Yoder
+412676	F	KY 1 R Comer
+412278	F	KY 2 R Guthrie
+412211	A	KY 3 D Yarmuth
+412503	F	KY 4 R Massie
+400340	F	KY 5 R Rogers
+412541	F	KY 6 R Barr
+412261	F	LA 1 R Scalise
+412432	A	LA 2 D Richmond
+412705	F	LA 3 R Higgins
+412706	F	LA 4 R Johnson
+412630	F	LA 5 R Abraham
+412631	F	LA 6 R Graves
+412307	A	ME 1 D Pingree
+412633	F	ME 2 R Poliquin
+412434	F	MD 1 R Harris
+400349	A	MD 2 D Ruppersberger
+412212	A	MD 3 D Sarbanes
+412707	A	MD 4 D Brown
+400189	A	MD 5 D Hoyer
+412544	A	MD 6 D Delaney
+400090	A	MD 7 D Cummings
+412708	A	MD 8 D Raskin
+400291	A	MA 1 D Neal
+400263	A	MA 2 D McGovern
+412254	A	MA 3 D Tsongas
+412543	A	MA 4 D Kennedy
+412600	A	MA 5 D Clark
+412632	A	MA 6 D Moulton
+400063	A	MA 7 D Capuano
+400249	A	MA 8 D Lynch
+412435	A	MA 9 D Keating
+412709	F	MI 1 R Bergman
+412437	F	MI 2 R Huizenga
+412438	F	MI 3 R Amash
+412634	F	MI 4 R Moolenaar
+412546	A	MI 5 D Kildee
+400414	F	MI 6 R Upton
+412213	F	MI 7 R Walberg
+412635	F	MI 8 R Bishop
+400238	A	MI 9 D Levin
+412710	F	MI 10 R Mitchell
+412636	F	MI 11 R Trott
+412637	A	MI 12 D Dingell
+400080	A	MI 13 D Conyers
+412638	A	MI 14 D Lawrence
+412214	A	MN 1 D Walz
+412711	F	MN 2 R Lewis
+412303	F	MN 3 R Paulsen
+400259	A	MN 4 D McCollum
+412215	A	MN 5 D Ellison
+412639	F	MN 6 R Emmer
+400316	F	MN 7 D Peterson
+408211	A	MN 8 D Nolan
+412673	F	MS 1 R Kelly
+400402	A	MS 2 D Thompson
+412280	F	MS 3 R Harper
+412443	F	MS 4 R Palazzo
+400074	A	MO 1 D Clay
+412548	F	MO 2 R Wagner
+412292	F	MO 3 R Luetkemeyer
+412444	F	MO 4 R Hartzler
+400639	A	MO 5 D Cleaver
+400158	F	MO 6 R Graves
+412445	F	MO 7 R Long
+412596	F	MO 8 R Smith
+400640	F	NE 1 R Fortenberry
+412713	F	NE 2 R Bacon
+412217	F	NE 3 R Smith
+412318	A	NV 1 D Titus
+412500	F	NV 2 R Amodei
+412715	A	NV 3 D Rosen
+412716	A	NV 4 D Kihuen
+412219	A	NH 1 D Shea-Porter
+412557	A	NH 2 D Kuster
+412606	A	NJ 1 D Norcross
+400244	F	NJ 2 R LoBiondo
+412643	F	NJ 3 R MacArthur
+400380	F	NJ 4 R Smith
+412714	F	NJ 5 D Gottheimer
+400308	A	NJ 6 D Pallone
+412290	F	NJ 7 R Lance
+412186	A	NJ 8 D Sires
+400309	A	NJ 9 D Pascrell
+412506	A	NJ 10 D Payne
+400142	F	NJ 11 R Frelinghuysen
+412644	A	NJ 12 D Watson Coleman
+412558	A	NM 1 D Lujan Grisham
+400313	F	NM 2 R Pearce
+412293	A	NM 3 D Luján
+412646	F	NY 1 R Zeldin
+400219	F	NY 2 R King
+412717	A	NY 3 D Suozzi
+412647	A	NY 4 D Rice
+400271	A	NY 5 D Meeks
+412560	A	NY 6 D Meng
+400416	A	NY 7 D Velázquez
+412561	A	NY 8 D Jeffries
+412221	A	NY 9 D Clarke
+400289	A	NY 10 D Nadler
+412672	F	NY 11 R Donovan
+400251	A	NY 12 D Maloney
+412718	A	NY 13 D Espaillat
+400087	A	NY 14 D Crowley
+400366	A	NY 15 D Serrano
+400122	A	NY 16 D Engel
+400246	A	NY 17 D Lowey
+412562	A	NY 18 D Maloney
+412719	F	NY 19 R Faso
+412319	A	NY 20 D Tonko
+412648	F	NY 21 R Stefanik
+412720	F	NY 22 R Tenney
+412393	F	NY 23 R Reed
+412649	F	NY 24 R Katko
+400378	A	NY 25 D Slaughter
+400641	A	NY 26 D Higgins
+412563	F	NY 27 R Collins
+400616	A	NC 1 D Butterfield
+412553	F	NC 2 R Holding
+400209	F	NC 3 R Jones
+400326	A	NC 4 D Price
+400643	F	NC 5 R Foxx
+412670	F	NC 6 R Walker
+412641	F	NC 7 R Rouzer
+412550	F	NC 8 R Hudson
+412551	F	NC 9 R Pittenger
+400644	F	NC 10 R McHenry
+412552	F	NC 11 R Meadows
+412607	A	NC 12 D Adams
+412712	F	NC 13 R Budd
+412555	F	ND AL R Cramer
+400071	F	OH 1 R Chabot
+412564	F	OH 2 R Wenstrup
+412565	A	OH 3 D Beatty
+412226	F	OH 4 R Jordan
+412256	F	OH 5 R Latta
+412460	F	OH 6 R Johnson
+412463	F	OH 7 R Gibbs
+412675	F	OH 8 R Davidson
+400211	A	OH 9 D Kaptur
+400411	F	OH 10 R Turner
+412327	A	OH 11 D Fudge
+400406	F	OH 12 R Tiberi
+400352	A	OH 13 D Ryan
+412566	F	OH 14 R Joyce
+412461	F	OH 15 R Stivers
+412462	F	OH 16 R Renacci
+412567	F	OK 1 R Bridenstine
+412568	F	OK 2 R Mullin
+400247	F	OK 3 R Lucas
+400077	F	OK 4 R Cole
+412650	F	OK 5 R Russell
+412501	A	OR 1 D Bonamici
+400419	F	OR 2 R Walden
+400033	A	OR 3 D Blumenauer
+400100	A	OR 4 D DeFazio
+412315	A	OR 5 D Schrader
+400047	A	PA 1 D Brady
+412677	A	PA 2 D Evans
+412465	F	PA 3 R Kelly
+412569	F	PA 4 R Perry
+412317	F	PA 5 R Thompson
+412651	F	PA 6 R Costello
+412466	F	PA 7 R Meehan
+412721	F	PA 8 R Fitzpatrick
+409888	F	PA 9 R Shuster
+412468	F	PA 10 R Marino
+412469	F	PA 11 R Barletta
+412570	F	PA 12 R Rothfus
+412652	A	PA 13 D Boyle
+400114	A	PA 14 D Doyle
+400648	F	PA 15 R Dent
+412722	F	PA 16 R Smucker
+412571	A	PA 17 D Cartwright
+400285	F	PA 18 R Murphy
+412470	A	RI 1 D Cicilline
+400230	A	RI 2 D Langevin
+400607	F	SC 1 R Sanford
+400433	F	SC 2 R Wilson
+412472	F	SC 3 R Duncan
+412473	F	SC 4 R Gowdy
+412738	F	SC 5 R Norman
+400075	A	SC 6 D Clyburn
+412572	F	SC 7 R Rice
+412475	F	SD AL R Noem
+412310	F	TN 1 R Roe
+400116	F	TN 2 R Duncan
+412476	F	TN 3 R Fleischmann
+412477	F	TN 4 R DesJarlais
+400081	A	TN 5 D Cooper
+412478	F	TN 6 R Black
+400032	F	TN 7 R Blackburn
+412724	F	TN 8 R Kustoff
+412236	A	TN 9 D Cohen
+400651	F	TX 1 R Gohmert
+400652	F	TX 2 R Poe
+400206	F	TX 3 R Johnson
+412653	F	TX 4 R Ratcliffe
+400175	F	TX 5 R Hensarling
+400018	F	TX 6 R Barton
+400089	F	TX 7 R Culberson
+400046	F	TX 8 R Brady
+400653	A	TX 9 D Green
+400654	F	TX 10 R McCaul
+400655	F	TX 11 R Conaway
+400157	F	TX 12 R Granger
+400404	F	TX 13 R Thornberry
+412574	F	TX 14 R Weber
+412725	F	TX 15 D Gonzalez
+412575	A	TX 16 D O'Rourke
+412480	F	TX 17 R Flores
+400199	A	TX 18 D Jackson Lee
+412726	F	TX 19 R Arrington
+412576	A	TX 20 D Castro
+400381	F	TX 21 R Smith
+412302	F	TX 22 R Olson
+412654	F	TX 23 R Hurd
+400656	F	TX 24 R Marchant
+412578	F	TX 25 R Williams
+400052	F	TX 26 R Burgess
+412482	F	TX 27 R Farenthold
+400657	A	TX 28 D Cuellar
+400160	A	TX 29 D Green
+400204	A	TX 30 D Johnson
+400068	F	TX 31 R Carter
+400367	F	TX 32 R Sessions
+412579	A	TX 33 D Veasey
+412580	A	TX 34 D Vela
+400111	A	TX 35 D Doggett
+412655	F	TX 36 R Babin
+400029	F	UT 1 R Bishop
+412581	F	UT 2 R Stewart
+412656	F	UT 4 R Love
+412239	A	VT AL D Welch
+412255	F	VA 1 R Wittman
+412727	F	VA 2 R Taylor
+400364	A	VA 3 D Scott
+412728	A	VA 4 D McEachin
+412729	F	VA 5 R Garrett
+400154	F	VA 6 R Goodlatte
+412605	F	VA 7 R Brat
+412657	A	VA 8 D Beyer
+412485	F	VA 9 R Griffith
+412658	F	VA 10 R Comstock
+412272	A	VA 11 D Connolly
+412505	A	WA 1 D DelBene
+400232	A	WA 2 D Larsen
+412486	F	WA 3 R Herrera Beutler
+412660	F	WA 4 R Newhouse
+400659	F	WA 5 R McMorris Rodgers
+412583	A	WA 6 D Kilmer
+412730	A	WA 7 D Jayapal
+400660	F	WA 8 R Reichert
+400379	A	WA 9 D Smith
+412584	A	WA 10 D Heck
+412487	F	WV 1 R McKinley
+412662	F	WV 2 R Mooney
+412663	F	WV 3 R Jenkins
+400351	F	WI 1 R Ryan
+412585	A	WI 2 D Pocan
+400218	A	WI 3 D Kind
+400661	A	WI 4 D Moore
+400365	F	WI 5 R Sensenbrenner
+412661	F	WI 6 R Grothman
+412488	F	WI 7 R Duffy
+412731	F	WI 8 R Gallagher
+412732	F	WY AL R Cheney
+300089	F	AL R Shelby
+300075	F	AK R Murkowski
+412665	F	AK R Sullivan
+400134	F	AZ R Flake
+300071	F	AZ R McCain
+400040	F	AR R Boozman
+412508	F	AR R Cotton
+300043	A	CA D Feinstein
+412678	A	CA D Harris
+412330	A	CO D Bennet
+412406	F	CO R Gardner
+412490	A	CT D Blumenthal
+412194	A	CT D Murphy
+300019	A	DE D Carper
+412390	A	DE D Coons
+300078	A	FL D Nelson
+412491	F	FL R Rubio
+400194	F	GA R Isakson
+412666	F	GA R Perdue
+412200	A	HI D Hirono
+412507	A	HI D Schatz
+300030	F	ID R Crapo
+412322	F	ID R Risch
+412533	A	IL D Duckworth
+300038	A	IL D Durbin
+412205	A	IN D Donnelly
+412428	F	IN R Young
+412667	F	IA R Ernst
+300048	F	IA R Grassley
+400284	F	KS R Moran
+300083	F	KS R Roberts
+300072	F	KY R McConnell
+412492	F	KY R Paul
+412269	F	LA R Cassidy
+412679	F	LA R Kennedy
+300025	F	ME R Collins
+412545	A	ME I King
+400064	A	MD D Cardin
+400415	A	MD D Van Hollen
+400253	A	MA D Markey
+412542	A	MA D Warren
+412305	A	MI D Peters
+300093	A	MI D Stabenow
+412378	A	MN D Franken
+412242	A	MN D Klobuchar
+300023	F	MS R Cochran
+400432	F	MS R Wicker
+400034	F	MO R Blunt
+412243	A	MO D McCaskill
+412549	F	MT R Daines
+412244	A	MT D Tester
+412556	F	NE R Fischer
+412671	F	NE R Sasse
+412681	A	NV D Cortez Masto
+412218	F	NV R Heller
+412680	A	NH D Hassan
+412323	A	NH D Shaheen
+412598	A	NJ D Booker
+400272	A	NJ D Menéndez
+412281	A	NM D Heinrich
+400413	A	NM D Udall
+412223	A	NY D Gillibrand
+300087	A	NY D Schumer
+400054	F	NC R Burr
+412668	F	NC R Tillis
+412554	A	ND D Heitkamp
+412494	F	ND R Hoeven
+400050	A	OH D Brown
+412464	F	OH R Portman
+300055	F	OK R Inhofe
+412464	F	OK R Lankford
+412325	A	OR D Merkley
+300100	A	OR D Wyden
+412246	A	PA D Casey
+400408	F	PA R Toomey
+300081	A	RI D Reed
+412247	A	RI D Whitehouse
+300047	F	SC R Graham
+412471	F	SC R Scott
+412669	F	SD R Rounds
+400546	F	SD R Thune
+300002	F	TN R Alexander
+412248	F	TN R Corker
+300027	F	TX R Cornyn
+412573	F	TX R Cruz
+300052	F	UT R Hatch
+412495	F	UT R Lee
+300065	A	VT D Leahy
+400357	A	VT I Sanders
+412582	A	VA D Kaine
+412321	A	VA D Warner
+300018	A	WA D Cantwell
+300076	A	WA D Murray
+400061	F	WV R Capito
+412391	F	WV D Manchin
+400013	A	WI D Baldwin
+412496	F	WI R Johnson
+412251	F	WY R Barrasso
+300041	F	WY R Enzi
