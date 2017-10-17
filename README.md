@@ -17,11 +17,13 @@ Each file in the scorecards directory starts with a metadata block in YAML forma
 
 The metadata block is terminated by three periods.
 
-Following the three periods is a tab-separated table of scores. Each row has
+The `abbrev` field holds a common short form of the organization's name. It is optional and you may either leave out the line or set it to null using `~`. `updated` is the publication date of the scorecard or the date it was imported here in YYYY-MM-DD format.
+
+Following the three periods is a CSV table of scores. Each row has
 the GovTrack numeric identifier of a Member of Congress and the score (an integer
 percentage or a letter grade). The third column holds notes for the data maintainer.
 
-	412601    73    AL 1 R Byrne
-	412394    82    AL 2 R Roby
-	400341    75    AL 3 R Rogers
+	412601,  5,AL 1 R Byrne
+	412394,  5,AL 2 R Roby
+	400341, 11,AL 3 R Rogers
 	(etcetera..)
