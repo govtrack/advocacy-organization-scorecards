@@ -85,12 +85,10 @@ type: percent
 412282, 94,CT 4 D Himes
 412524, 99,CT 5 D Esty
 412525,  2,FL 3 R Yoho
-412692,  7,FL 4 R Rutherford
 412526,  2,FL 6 R DeSantis
 412309,  6,FL 8 R Posey
 412410,  5,FL 11 R Webster
 412250, 10,FL 12 R Bilirakis
-412697, 13,FL 13 D Crist
 412195, 94,FL 14 D Castor
 412411,  4,FL 15 R Ross
 412196, 21,FL 16 R Buchanan
@@ -188,7 +186,6 @@ type: percent
 400080, 81,MI 13 D Conyers
 412638, 97,MI 14 D Lawrence
 412214, 81,MN 1 D Walz
-412711,  4,MN 2 R Lewis
 412303, 16,MN 3 R Paulsen
 400259, 93,MN 4 D McCollum
 412215, 93,MN 5 D Ellison
@@ -242,7 +239,6 @@ type: percent
 400122, 92,NY 16 D Engel
 400246, 94,NY 17 D Lowey
 412562, 87,NY 18 D Maloney
-412719, 41,NY 19 R Faso
 412319, 97,NY 20 D Tonko
 412648, 19,NY 21 R Stefanik
 412393,  6,NY 23 R Reed
