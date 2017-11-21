@@ -362,6 +362,7 @@ type: percent
 412272,100,VA 11 D Connolly
 412505,100,WA 1 D DelBene
 400232, 94,WA 2 D Larsen
+412486,  5,WA 3 R Herrera Beutler
 412660,  5,WA 4 R Newhouse
 400659,  5,WA 5 R McMorris Rodgers
 412583, 88,WA 6 D Kilmer
@@ -400,7 +401,6 @@ type: percent
 412322, 17,ID R Risch
 300038, 35,IL D Durbin
 412205, 35,IN D Donnelly
-412428, 11,IN R Young
 412667, 11,IA R Ernst
 300048, 11,IA R Grassley
 400284, 11,KS R Moran
@@ -425,9 +425,7 @@ type: percent
 412244, 64,MT D Tester
 412556,  5,NE R Fischer
 412671,  5,NE R Sasse
-412681, 82,NV D Cortez Masto
 412218, 70,NV R Heller
-412680, 17,NH D Hassan
 412323, 88,NH D Shaheen
 412598, 88,NJ D Booker
 400272, 94,NJ D Menéndez
