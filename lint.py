@@ -35,7 +35,7 @@ for fn in sorted(glob.glob("scorecards/*.yaml")):
 		
 		# Field values.
 		if metadata["type"] not in ("percent", "grade"):
-				raise ValueError("Invalid value for field {} in {}, should be 'percent' or 'grade'.".format(key, fn))
+				raise ValueError("Invalid value for type in {}, should be 'percent' or 'grade'.".format(fn))
 
 		# Load the remaining data as a TSV.
 		scores = list(csv.reader(io.StringIO(scores), delimiter=","))

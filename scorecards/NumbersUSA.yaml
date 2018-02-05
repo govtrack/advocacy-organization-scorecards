@@ -1,8 +1,8 @@
 name: NumbersUSA
-abbrev:
+abbrev: ~
 homepage: https://www.numbersusa.com/
 link: https://www.numbersusa.com/content/my/tools/grades
-updated: 2018-1-26
+updated: 2018-01-26
 based-on: votes in 115th Congress
 type: percent
 ...
