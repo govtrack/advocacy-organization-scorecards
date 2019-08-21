@@ -25,7 +25,6 @@ type: percent
 412402,6,AR 3 - R Womack
 412610,0,AR 4 - R Westerman
 400134,7,AZ - R Flake
-300071,,AZ - R McCain
 412682,83,AZ 1 - D O'Halleran
 412611,9,AZ 2 - R McSally
 400162,94,AZ 3 - D Grijalva
@@ -42,7 +41,6 @@ type: percent
 412613,100,CA 11 - D DeSaulnier
 400314,100,CA 12 - D Pelosi
 400237,100,CA 13 - D Lee
-412259,,CA 14 - D Speier
 412514,89,CA 15 - D Swalwell
 400618,69,CA 16 - D Costa
 412684,100,CA 17 - D Khanna
@@ -525,7 +523,6 @@ type: percent
 400379,100,WA 9 - D Smith
 400013,100,WI - D Baldwin
 412496,0,WI - R Johnson
-400351,,WI 1 - R Ryan
 412585,100,WI 2 - D Pocan
 400218,89,WI 3 - D Kind
 400661,94,WI 4 - D Moore

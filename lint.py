@@ -48,8 +48,8 @@ for fn in sorted(glob.glob("scorecards/*.yaml")):
 		w = csv.writer(f, delimiter=",", lineterminator="\n")
 		for row in scores:
 			# Validate data.
-			if len(row) != 3: raise ValueError("Not three columns: " + row)
-			if row[1].strip() == "": raise ValueError("Empty score in " + row)
+			if len(row) != 3: raise ValueError("Not three columns: " + repr(row) + " (" + fn + ")")
+			if row[1].strip() == "": raise ValueError("Empty score in " + repr(row) + " (" + fn + ")")
 
 			# Left-pad the score column to make it easier to scan visually.
 			row[1] = " "*(3-len(row[1])) + row[1]

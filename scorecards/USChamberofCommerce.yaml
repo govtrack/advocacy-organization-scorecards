@@ -2,7 +2,7 @@ name: United States Chamber of Commerce
 abbrev: U.S. Chamber of Commerce
 homepage: https://www.uschamber.com/
 link: https://www.uschamber.com/how-they-voted/2018
-updated: 2019-8-5
+updated: 2019-08-05
 based-on: based on votes in the 115th Congress
 type: percent
 ...
@@ -251,7 +251,6 @@ type: percent
 412710,92,MI 10 - R Mitchell
 412636,92,MI 11 - R Trott
 412637,67,MI 12 - D Dingell
-400080,,MI 13 - D Conyers
 412638,58,MI 14 - D Lawrence
 412437,92,MI 2 - R Huizenga
 412438,58,MI 3 - R Amash
@@ -361,7 +360,6 @@ type: percent
 412720,83,NY 22 - R Tenney
 412393,92,NY 23 - R Reed
 412649,83,NY 24 - R Katko
-412749,,NY 25 - D Morelle
 400641,58,NY 26 - D Higgins
 412563,92,NY 27 - R Collins
 412717,67,NY 3 - D Suozzi
@@ -524,7 +522,6 @@ type: percent
 400379,50,WA 9 - D Smith
 400013,60,WI - D Baldwin
 412496,80,WI - R Johnson
-400351,,WI 1 - R Ryan
 412585,50,WI 2 - D Pocan
 400218,60,WI 3 - D Kind
 400661,64,WI 4 - D Moore
