@@ -1,521 +1,75 @@
 name: American Civil Liberties Union
 abbrev: ACLU
 homepage: https://www.aclu.org/
-link: https://www.aclu.org/other/legislative-scorecard-2018
-updated: 2019-07-20
-based-on: based on votes in the 114th Congress
+link: https://www.aclu.org/scorecard/?filter=all
+updated: 2021-01-07
+based-on: based on votes in the 116th Congress
 type: percent
 ...
-412601,  4,AL 1 R Byrne
-412394,  3,AL 2 R Roby
-400341,  4,AL 3 R Rogers
-400004,  4,AL 4 R Aderholt
-412395, 11,AL 5 R Brooks
-412608,  7,AL 6 R Palmer
-412396, 79,AL 7 D Sewell
-400440, 15,AK 1 R Young
-412682, 68,AZ 1 D O'Halleran
-412611,  7,AZ 2 R McSally
-400162, 89,AZ 3 D Grijalva
-412397, 29,AZ 4 R Gosar
-412683, 26,AZ 5 R Biggs
-412399, 18,AZ 6 R Schweikert
-412612, 89,AZ 7 D Gallego
-412509, 64,AZ 9 D Sinema
-412400,  4,AR 1 R Crawford
-412609, 11,AR 2 R Hill
-412402,  4,AR 3 R Womack
-412610,  7,AR 4 R Westerman
-412510,  4,CA 1 R LaMalfa
-412511, 93,CA 2 D Huffman
-412382, 75,CA 3 D Garamendi
-412295, 21,CA 4 R McClintock
-400403, 75,CA 5 D Thompson
-400663, 89,CA 6 D Matsui
-412512, 71,CA 7 D Bera
-412513,  7,CA 8 R Cook
-412189, 88,CA 9 D McNerney
-412403, 11,CA 10 R Denham
-412613, 96,CA 11 D DeSaulnier
-400314, 77,CA 12 D Pelosi
-400237, 96,CA 13 D Lee
-412259, 82,CA 14 D Speier
-412514, 78,CA 15 D Swalwell
-400618, 60,CA 16 D Costa
-400124, 86,CA 18 D Eshoo
-400245, 91,CA 19 D Lofgren
-412685, 79,CA 20 D Panetta
-412515,  4,CA 21 R Valadao
-400297,  4,CA 22 R Nunes
-412190,  4,CA 23 R McCarthy
-412686, 73,CA 24 D Carbajal
-412614,  7,CA 25 R Knight
-412516, 79,CA 26 D Brownley
-412379, 89,CA 27 D Chu
-400361, 79,CA 28 D Schiff
-412517, 88,CA 29 D Cardenas
-400371, 86,CA 30 D Sherman
-412615, 75,CA 31 D Aguilar
-400290, 86,CA 32 D Napolitano
-412616, 87,CA 33 D Lieu
-412739, 93,CA 34 D Gomez
-412617, 81,CA 35 D Torres
-412519, 71,CA 36 D Ruiz
-412404, 92,CA 37 D Bass
-400355, 89,CA 38 D Sánchez
-400348,  4,CA 39 R Royce
-400347, 89,CA 40 D Roybal-Allard
-412520, 93,CA 41 D Takano
-400057,  4,CA 42 R Calvert
-400422, 89,CA 43 D Waters
-412687, 93,CA 44 D Barragan
-412618,  4,CA 45 R Walters
-412688, 75,CA 46 D Correa
-412521, 89,CA 47 D Lowenthal
-400343, 21,CA 48 R Rohrabacher
-400196,  9,CA 49 R Issa
-412283,  4,CA 50 R Hunter
-412522, 89,CA 51 D Vargas
-412523, 71,CA 52 D Peters
-400097, 86,CA 53 D Davis
-400101, 92,CO 1 D DeGette
-412308, 93,CO 2 D Polis
-412405,  7,CO 3 R Tipton
-412619,  9,CO 4 R Buck
-412191, 11,CO 5 R Lamborn
-412271, 21,CO 6 R Coffman
-412192, 75,CO 7 D Perlmutter
-400233, 80,CT 1 D Larson
-412193, 78,CT 2 D Courtney
-400103, 79,CT 3 D DeLauro
-412282, 79,CT 4 D Himes
-412524, 79,CT 5 D Esty
-412689, 79,DE 1 D Blunt Rochester
-412690,  9,FL 1 R Gaetz
-412691,  4,FL 2 R Dunn
-412525, 15,FL 3 R Yoho
-412692,  3,FL 4 R Rutherford
-412693, 67,FL 5 D Lawson
-412694, 64,FL 7 D Murphy
-412309, 17,FL 8 R Posey
-412695, 86,FL 9 D Soto
-412696, 69,FL 10 D Demings
-412410, 15,FL 11 R Webster
-412250,  4,FL 12 R Bilirakis
-412697, 69,FL 13 D Crist
-412195, 75,FL 14 D Castor
-412411,  4,FL 15 R Ross
-412196,  7,FL 16 R Buchanan
-412311,  4,FL 17 R Rooney
-412698, 14,FL 18 R Mast
-412699,  4,FL 19 R Rooney
-400170, 92,FL 20 D Hastings
-412529, 83,FL 21 D Frankel
-412385, 77,FL 22 D Deutch
-400623, 77,FL 23 D Wasserman Schultz
-412412, 88,FL 24 D Wilson
-400108, 13,FL 25 R Diaz-Balart
-412621, 24,FL 26 R Curbelo
-400344, 33,FL 27 R Ros-Lehtinen
-412622,  4,GA 1 R Carter
-400030, 77,GA 2 D Bishop
-412700,  4,GA 3 R Ferguson
-412199, 82,GA 4 D Johnson
-400240, 89,GA 5 D Lewis
-412416,  7,GA 7 R Woodall
-412417,  4,GA 8 R Scott
-412531,  3,GA 9 R Collins
-412623, 11,GA 10 R Hice
-412624, 22,GA 11 R Loudermilk
-412625,  7,GA 12 R Allen
-400363, 82,GA 13 D Scott
-412388,  7,GA 14 R Graves
-412532, 88,HI 2 D Gabbard
-412419, 21,ID 1 R Labrador
-400376,  4,ID 2 R Simpson
-400350, 90,IL 1 D Rush
-412595, 86,IL 2 D Kelly
-400630, 46,IL 3 D Lipinski
-400163, 89,IL 4 D Gutiérrez
-412331, 75,IL 5 D Quigley
-412202,  7,IL 6 R Roskam
-400093, 88,IL 7 D Davis
-412701, 79,IL 8 D Krishnamoorthi
-400360, 89,IL 9 D Schakowsky
-412534, 77,IL 10 D Schneider
-412257, 82,IL 11 D Foster
-412629,  7,IL 12 R Bost
-412536,  7,IL 13 R Davis
-412422,  4,IL 14 R Hultgren
-400373,  4,IL 15 R Shimkus
-412421,  4,IL 16 R Kinzinger
-412537, 75,IL 17 D Bustos
-412674,  7,IL 18 R LaHood
-400417, 86,IN 1 D Visclosky
-412538,  4,IN 2 R Walorski
-412702,  7,IN 3 R Banks
-412426, 15,IN 4 R Rokita
-412539,  4,IN 5 R Brooks
-412540,  7,IN 6 R Messer
-412258, 83,IN 7 D Carson
-412427,  4,IN 8 R Bucshon
-412703,  7,IN 9 R Hollingsworth
-412627, 14,IA 1 R Blum
-412209, 79,IA 2 D Loebsack
-412628,  7,IA 3 R Young
-400220,  9,IA 4 R King
-412704,  4,KS 1 R Marshall
-412284,  7,KS 2 R Jenkins
-412430, 18,KS 3 R Yoder
-412676, 14,KY 1 R Comer
-412278,  4,KY 2 R Guthrie
-412211, 89,KY 3 D Yarmuth
-412503, 36,KY 4 R Massie
-400340,  4,KY 5 R Rogers
-412541,  4,KY 6 R Barr
-412261,  6,LA 1 R Scalise
-412432, 85,LA 2 D Richmond
-412705,  7,LA 3 R Higgins
-412706,  9,LA 4 R Johnson
-412630,  7,LA 5 R Abraham
-412631, 18,LA 6 R Graves
-412307, 92,ME 1 D Pingree
-412633,  7,ME 2 R Poliquin
-412434, 14,MD 1 R Harris
-400349, 71,MD 2 D Ruppersberger
-412212, 86,MD 3 D Sarbanes
-412707, 81,MD 4 D Brown
-400189, 82,MD 5 D Hoyer
-412544, 75,MD 6 D Delaney
-400090, 88,MD 7 D Cummings
-412708, 91,MD 8 D Raskin
-400291, 82,MA 1 D Neal
-400263, 89,MA 2 D McGovern
-412254, 86,MA 3 D Tsongas
-412543, 89,MA 4 D Kennedy
-412600, 92,MA 5 D Clark
-412632, 82,MA 6 D Moulton
-400249, 78,MA 8 D Lynch
-412435, 75,MA 9 D Keating
-412709, 11,MI 1 R Bergman
-412437,  4,MI 2 R Huizenga
-412438, 54,MI 3 R Amash
-412634,  4,MI 4 R Moolenaar
-412546, 86,MI 5 D Kildee
-400414,  7,MI 6 R Upton
-412213,  4,MI 7 R Walberg
-412635,  4,MI 8 R Bishop
-400238, 86,MI 9 D Levin
-412710,  7,MI 10 R Mitchell
-412636,  8,MI 11 R Trott
-412637, 86,MI 12 D Dingell
-400080,100,MI 13 D Conyers
-412638, 86,MI 14 D Lawrence
-412214, 92,MN 1 D Walz
-412303,  7,MN 3 R Paulsen
-400259, 86,MN 4 D McCollum
-412215, 89,MN 5 D Ellison
-412639, 18,MN 6 R Emmer
-400316, 42,MN 7 D Peterson
-408211, 88,MN 8 D Nolan
-412673, 14,MS 1 R Kelly
-400402, 81,MS 2 D Thompson
-412280,  7,MS 3 R Harper
-412443,  4,MS 4 R Palazzo
-400074, 89,MO 1 D Clay
-412548,  4,MO 2 R Wagner
-412292,  4,MO 3 R Luetkemeyer
-412444,  4,MO 4 R Hartzler
-400639, 87,MO 5 D Cleaver
-400158,  4,MO 6 R Graves
-412445,  8,MO 7 R Long
-412596, 11,MO 8 R Smith
-412736, 11,MT 1 R Gianforte
-400640,  7,NE 1 R Fortenberry
-412713,  7,NE 2 R Bacon
-412217,  4,NE 3 R Smith
-412318, 89,NV 1 D Titus
-412500,  4,NV 2 R Amodei
-412715, 67,NV 3 D Rosen
-412557, 85,NH 2 D Kuster
-412557, 74,NH 2 D Kuster
-412606, 79,NJ 1 D Norcross
-400244, 18,NJ 2 R LoBiondo
-412643, 11,NJ 3 R MacArthur
-400380, 19,NJ 4 R Smith
-412714, 64,NJ 5 D Gottheimer
-400308, 93,NJ 6 D Pallone
-412290, 14,NJ 7 R Lance
-412186, 74,NJ 8 D Sires
-400309, 78,NJ 9 D Pascrell
-412506, 93,NJ 10 D Payne
-400142, 11,NJ 11 R Frelinghuysen
-412644, 96,NJ 12 D Watson Coleman
-412558, 86,NM 1 D Lujan Grisham
-400313, 15,NM 2 R Pearce
-412293, 89,NM 3 D Luján
-412646, 14,NY 1 R Zeldin
-400219,  3,NY 2 R King
-412717, 77,NY 3 D Suozzi
-412647, 75,NY 4 D Rice
-400271, 81,NY 5 D Meeks
-412560, 81,NY 6 D Meng
-400416, 96,NY 7 D Velázquez
-412561, 83,NY 8 D Jeffries
-412221, 93,NY 9 D Clarke
-400289, 86,NY 10 D Nadler
-412672,  7,NY 11 R Donovan
-400251, 89,NY 12 D Maloney
-412718, 89,NY 13 D Espaillat
-400087, 89,NY 14 D Crowley
-400366, 89,NY 15 D Serrano
-400122, 93,NY 16 D Engel
-400246, 79,NY 17 D Lowey
-412562, 75,NY 18 D Maloney
-412319, 89,NY 20 D Tonko
-412648, 14,NY 21 R Stefanik
-412393, 15,NY 23 R Reed
-412649, 22,NY 24 R Katko
-400641, 67,NY 26 D Higgins
-412563,  7,NY 27 R Collins
-400616, 85,NC 1 D Butterfield
-400209,  7,NC 3 R Jones
-400326, 86,NC 4 D Price
-400643,  4,NC 5 R Foxx
-412670,  4,NC 6 R Walker
-412641,  7,NC 7 R Rouzer
-412550,  4,NC 8 R Hudson
-412551,  4,NC 9 R Pittenger
-400644,  4,NC 10 R McHenry
-412552, 19,NC 11 R Meadows
-412607, 85,NC 12 D Adams
-412712, 14,NC 13 R Budd
-412555,  4,ND AL R Cramer
-400071,  3,OH 1 R Chabot
-412564,  3,OH 2 R Wenstrup
-412565, 86,OH 3 D Beatty
-412226, 21,OH 4 R Jordan
-412256,  7,OH 5 R Latta
-412460,  4,OH 6 R Johnson
-412463,  4,OH 7 R Gibbs
-412675,  26,OH 8 Davidson
-400211, 79,OH 9 D Kaptur
-400411, 14,OH 10 R Turner
-412327, 85,OH 11 D Fudge
-400352, 86,OH 13 D Ryan
-412566, 14,OH 14 R Joyce
-412461,  8,OH 15 R Stivers
-412462,  7,OH 16 R Renacci
-412568,  7,OK 2 R Mullin
-400247,  4,OK 3 R Lucas
-400077,  4,OK 4 R Cole
-412650, 12,OK 5 R Russell
-412501, 86,OR 1 D Bonamici
-400419,  7,OR 2 R Walden
-400033, 93,OR 3 D Blumenauer
-400100, 79,OR 4 D DeFazio
-412315, 75,OR 5 D Schrader
-400047, 86,PA 1 D Brady
-412677, 86,PA 2 D Evans
-412465,  7,PA 3 R Kelly
-412569, 21,PA 4 R Perry
-412317,  7,PA 5 R Thompson
-412651, 21,PA 6 R Costello
-412721, 29,PA 8 R Fitzpatrick
-409888,  7,PA 9 R Shuster
-412468,  3,PA 10 R Marino
-412469,  7,PA 11 R Barletta
-412570,  7,PA 12 R Rothfus
-412652, 82,PA 13 D Boyle
-400114, 86,PA 14 D Doyle
-412722,  7,PA 16 R Smucker
-412571, 61,PA 17 D Cartwright
-412470, 85,RI 1 D Cicilline
-400230, 68,RI 2 D Langevin
-400607, 37,SC 1 R Sanford
-400433,  4,SC 2 R Wilson
-412472, 19,SC 3 R Duncan
-412473,  3,SC 4 R Gowdy
-412738, 17,SC 5 R Norman
-400075, 79,SC 6 D Clyburn
-412572,  7,SC 7 R Rice
-412475,  7,SD AL R Noem
-412310,  7,TN 1 R Roe
-400116, 25,TN 2 R Duncan
-412476,  4,TN 3 R Fleischmann
-412477, 11,TN 4 R DesJarlais
-400081, 68,TN 5 D Cooper
-412478, 11,TN 6 R Black
-400032, 11,TN 7 R Blackburn
-412724,  4,TN 8 Kustoff
-412236, 88,TN 9 Cohen
-400651, 16,TX 1 R Gohmert
-400652, 15,TX 2 R Poe
-400206,  4,TX 3 R Johnson
-412653,  6,TX 4 R Ratcliffe
-400175,  4,TX 5 R Hensarling
-400018, 11,TX 6 R Barton
-400089,  4,TX 7 R Culberson
-400046,  4,TX 8 R Brady
-400653, 86,TX 9 D Green
-400654,  4,TX 10 R McCaul
-400655,  3,TX 11 R Conaway
-400157,  4,TX 12 R Granger
-400404,  4,TX 13 R Thornberry
-412574, 14,TX 14 R Weber
-412725, 82,TX 15 D Gonzalez
-412575, 82,TX 16 D O'Rourke
-412480,  4,TX 17 R Flores
-400199, 88,TX 18 D Jackson Lee
-412726,  4,TX 19 R Arrington
-412576, 86,TX 20 D Castro
-400381,  3,TX 21 R Smith
-412302,  4,TX 22 R Olson
-412654,  7,TX 23 R Hurd
-400656,  4,TX 24 R Marchant
-412578, 14,TX 25 R Williams
-400052, 11,TX 26 R Burgess
-400657, 43,TX 28 D Cuellar
-400657, 29,TX 28 D Cuellar
-400160, 82,TX 29 D Green
-400204, 89,TX 30 D Johnson
-400068,  4,TX 31 R Carter
-400367,  4,TX 32 R Sessions
-412579, 86,TX 33 D Veasey
-412580, 82,TX 34 D Vela
-400111, 89,TX 35 D Doggett
-412655, 12,TX 36 R Babin
-400029, 11,UT 1 R Bishop
-412581,  7,UT 2 R Stewart
-412740, 25,UT 3 R Curtis
-412656,  7,UT 4 R Love
-412239, 86,VT AL D Welch
-412255, 11,VA 1 R Wittman
-400364, 93,VA 3 D Scott
-412728, 77,VA 4 D McEachin
-400154,  3,VA 6 R Goodlatte
-412605, 21,VA 7 R Brat
-412657, 93,VA 8 D Beyer
-412485, 21,VA 9 R Griffith
-412658, 19,VA 10 R Comstock
-412272, 86,VA 11 D Connolly
-412505, 86,WA 1 D DelBene
-400232, 86,WA 2 D Larsen
-412486, 18,WA 3 R Herrera Beutler
-412660, 12,WA 4 R Newhouse
-400659, 11,WA 5 R McMorris Rodgers
-412583, 79,WA 6 D Kilmer
-412730, 97,WA 7 D Jayapal
-400660, 26,WA 8 R Reichert
-400379, 96,WA 9 D Smith
-412584, 79,WA 10 D Heck
-412487,  4,WV 1 R McKinley
-412662, 18,WV 2 R Mooney
-412663,  4,WV 3 R Jenkins
-412585, 93,WI 2 D Pocan
-400218, 81,WI 3 D Kind
-400661, 93,WI 4 D Moore
-400365, 17,WI 5 R Sensenbrenner
-412661, 11,WI 6 R Grothman
-412488,  7,WI 7 R Duffy
-412731,  4,WI 8 R Gallagher
-412732,  4,WY 1 R Cheney
-300089,  5,AL R Shelby
-412741, 42,AL D Jones
-300075, 52,AK R Murkowski
-412665, 21,AK R Sullivan
-400134, 24,AZ R Flake
-400040,  5,AR R Boozman
-412508, 14,AR R Cotton
-300043, 73,CA D Feinstein
-412678, 86,CA D Harris
-412330, 71,CO D Bennet
-412406, 29,CO R Gardner
-412490, 73,CT D Blumenthal
-412194, 71,CT D Murphy
-300019, 62,DE D Carper
-412390, 77,DE D Coons
-300078, 60,FL D Nelson
-412491,  5,FL R Rubio
-412666, 14,GA R Perdue
-400194,  6,GA R Isakson
-412200, 77,HI D Hirono
-412507, 75,HI D Schatz
-300030, 18,ID R Crapo
-412322, 14,ID R Risch
-300038, 82,IL D Durbin
-412533, 62,IL D Duckworth
-412205, 52,IN D Donnelly
-412428,  5,IN R Young
-412667, 10,IA R Ernst
-300048, 18,IA R Grassley
-400284, 19,KS R Moran
-300083,  5,KS R Roberts
-300072,  5,KY R McConnell
-412492, 45,KY R Paul
-412269,  14,LA R Cassidy
-412679,  27,LA R Kennedy
-300025, 43,ME R Collins
-412545, 67,ME I King
-400064, 71,MD D Cardin
-400415, 76,MD D Van Hollen
-400253, 81,MA D Markey
-412542, 86,MA D Warren
-412305, 62,MI D Peters
-300093, 62,MI D Stabenow
-412378, 82,MN D Franken
-412242, 94,MN D Klobuchar
-412743,  0,MS R Hyde-Smith
-400432, 10,MS R Wicker
-400034,  5,MO R Blunt
-412243, 67,MO D McCaskill
+300089,  0,AL R Shelby
+300075, 58,AK R Murkowski
+412509, 69,AZ D Sinema
+400040,  0,AR R Boozman
+300043, 85,CA D Feinstein
+412678, 90,CA D Harris
+412330, 77,CO D Bennet
+412490, 77,CT D Blumenthal
+412194, 92,CT D Murphy
+300019, 85,DE D Carper
+412838, 23,FL R Scott
+412491,  9,FL R Rubio
+412200, 92,HI D Hirono
+412507, 92,HI D Schatz
+300030, 17,ID R Crapo
+412533, 77,IL D Duckworth
+412428,  0,IN R Young
+412839, 23,IN R Braun
+300048, 15,IA R Grassley
+400284, 38,KS R Moran
+412492, 60,KY R Paul
+412679,  23,LA R Kennedy
+412545, 69,ME I King
+400064, 77,MD D Cardin
+400415, 92,MD D Van Hollen
+412542, 91,MA D Warren
+300093, 77,MI D Stabenow
+412242, 77,MN D Klobuchar
+400432, 23,MS R Wicker
+400034, 15,MO R Blunt
+412840, 15,MO R Hawley
 412549, 33,MT R Daines
-412244, 81,MT D Tester
-412556, 14,NE R Fischer
-412671, 18,NE R Sasse
-412218, 15,NV R Heller
-412681, 62,NV D Cortez Masto
-412323, 62,NH D Shaheen
-412680, 62,NH D Hassan
-412598, 86,NJ D Booker
-400272, 76,NJ D Menéndez
-412281, 76,NM D Heinrich
-400413, 76,NM D Udall
-412223, 86,NY D Gillibrand
-300087, 67,NY D Schumer
-400054,  6,NC R Burr
-412668, 14,NC R Tillis
-412554, 62,ND D Heitkamp
+412244, 77,MT D Tester
+412556,  0,NE R Fischer
+412715, 75,NV D Rosen
+412681, 77,NV D Cortez Masto
+412680, 69,NH D Hassan
+400272, 69,NJ D Menéndez
+412281, 92,NM D Heinrich
+412223, 92,NY D Gillibrand
+300087, 77,NY D Schumer
+400054,  0,NC R Burr
+412555, 18,ND R Cramer
 412494,  5,ND R Hoeven
-400050, 76,OH D Brown
-412464, 10,OH R Portman
+400050, 92,OH D Brown
+412464, 31,OH R Portman
 300055, 10,OK R Inhofe
-412464, 10,OK R Lankford
-412325, 86,OR D Merkley
-300100, 86,OR D Wyden
-412246, 57,PA D Casey
-400408,  6,PA R Toomey
-300081, 62,RI D Reed
-412247, 64,RI D Whitehouse
-300047,  9,SC R Graham
-412471,  5,SC R Scott
-412669,  5,SD R Rounds
-400546, 10,SD R Thune
-300002,  5,TN R Alexander
-412248, 14,TN R Corker
-300027,  5,TX R Cornyn
+412464,  8,OK R Lankford
+300100, 77,OR D Wyden
+412246, 54,PA D Casey
+400408, 23,PA R Toomey
+412247, 69,RI D Whitehouse
+412471, 17,SC R Scott
+400546,  0,SD R Thune
+400032, 15,TN R Blackburn
 412573, 23,TX R Cruz
-300052,  5,UT R Hatch
-412495, 36,UT R Lee
-300065, 76,VT D Leahy
-400357, 86,VT I Sanders
-412582, 67,VA D Kaine
-412321, 62,VA D Warner
-300018, 76,WA D Cantwell
-300076, 76,WA D Murray
-400061,  5,WV R Capito
-412391, 52,WV D Manchin
-400013, 75,WI D Baldwin
-412496, 14,WI R Johnson
-412251, 19,WY R Barrasso
-300041, 19,WY R Enzi
+412841, 15,UT R Romney
+412495, 46,UT R Lee
+300065, 92,VT D Leahy
+400357,100,VT I Sanders
+412582, 85,VA D Kaine
+300018, 77,WA D Cantwell
+300076, 73,WA D Murray
+412391, 23,WV D Manchin
+400013, 92,WI D Baldwin
+412496,  8,WI R Johnson
+412251,  8,WY R Barrasso
