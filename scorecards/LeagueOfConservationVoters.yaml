@@ -2,539 +2,470 @@ name: League of Conservation Voters
 abbrev: LCV
 homepage: https://www.lcv.org/
 link: http://scorecard.lcv.org/
-updated: 2019-08-05
-based-on: based on votes in the 114th Congress
+updated: 2021-01-18
+based-on: based on votes in the 116th Congress
 type: percent
 ...
-300075, 14,AK - R Murkowski
-412665,  7,AK - R Sullivan
-400440,  6,AK 1 - R Young
-300089,  7,AL - R Shelby
-412741, 79,AL - D Jones
-412601,  0,AL 1 - R Byrne
-412394,  6,AL 2 - R Roby
-400341,  3,AL 3 - R Rogers
-400004,  0,AL 4 - R Aderholt
-412395, 20,AL 5 - R Brooks
-412608,  0,AL 6 - R Palmer
-412396, 71,AL 7 - D Sewell
-400040,  7,AR - R Boozman
-412508,  0,AR - R Cotton
-412400,  6,AR 1 - R Crawford
-412609,  6,AR 2 - R Hill
-412402,  6,AR 3 - R Womack
-412610,  0,AR 4 - R Westerman
-400134,  7,AZ - R Flake
-412682, 83,AZ 1 - D O'Halleran
-412611,  9,AZ 2 - R McSally
-400162, 94,AZ 3 - D Grijalva
-412397,  6,AZ 4 - R Gosar
-412683, 11,AZ 5 - R Biggs
-412399,  3,AZ 6 - R Schweikert
-412612,100,AZ 7 - D Gallego
-412745,  0,AZ 8 Lesko
-412509, 74,AZ 9 - D Sinema
-300043, 93,CA - D Feinstein
-412678,100,CA - D Harris
-412510,  3,CA 1 - R LaMalfa
-412403,  9,CA 10 - R Denham
-412613,100,CA 11 - D DeSaulnier
-400314,100,CA 12 - D Pelosi
-400237,100,CA 13 - D Lee
-412514, 89,CA 15 - D Swalwell
-400618, 69,CA 16 - D Costa
-412684,100,CA 17 - D Khanna
-400124, 94,CA 18 - D Eshoo
-400245, 97,CA 19 - D Lofgren
-412511, 91,CA 2 - D Huffman
-412685, 94,CA 20 - D Panetta
-412515, 11,CA 21 - R Valadao
-400297,  3,CA 22 - R Nunes
-412190,  3,CA 23 - R McCarthy
-412686, 83,CA 24 - D Carbajal
-412614, 11,CA 25 - R Knight
-412516, 89,CA 26 - D Brownley
-412379, 97,CA 27 - D Chu
-400361, 97,CA 28 - D Schiff
-412517, 49,CA 29 - D Cárdenas
-412382, 91,CA 3 - D Garamendi
-400371, 97,CA 30 - D Sherman
-412615, 91,CA 31 - D Aguilar
-400290, 94,CA 32 - D Napolitano
-412616, 89,CA 33 - D Lieu
-412739, 97,CA 34 - D Gomez
-412617, 94,CA 35 - D Torres
-412519, 91,CA 36 - D Ruiz
-412404, 66,CA 37 - D Bass
-400355, 97,CA 38 - D Sánchez
-400348,  9,CA 39 - R Royce
-412295,  6,CA 4 - R McClintock
-400347,100,CA 40 - D Roybal-Allard
-412520, 97,CA 41 - D Takano
-400057,  6,CA 42 - R Calvert
-400422, 94,CA 43 - D Waters
-412687, 94,CA 44 - D Barragán
-412618,  0,CA 45 - R Walters
-412688, 91,CA 46 - D Correa
-412521, 94,CA 47 - D Lowenthal
-400343, 11,CA 48 - R Rohrabacher
-400196,  3,CA 49 - R Issa
-400403,100,CA 5 - D Thompson
-412283,  0,CA 50 - R Hunter
-412522, 91,CA 51 - D Vargas
-412523, 86,CA 52 - D Peters
-400097, 94,CA 53 - D Davis
-400663, 94,CA 6 - D Matsui
-412512, 91,CA 7 - D Bera
-412513,  0,CA 8 - R Cook
-412189, 91,CA 9 - D McNerney
-412330,100,CO - D Bennet
-412406,  7,CO - R Gardner
-400101, 91,CO 1 - D DeGette
-412308, 66,CO 2 - D Polis
-412405,  9,CO 3 - R Tipton
-412619,  6,CO 4 - R Buck
-412191,  0,CO 5 - R Lamborn
-412271, 20,CO 6 - R Coffman
-412192, 89,CO 7 - D Perlmutter
-412490,100,CT - D Blumenthal
-412194,100,CT - D Murphy
-400233, 94,CT 1 - D Larson
-412193, 91,CT 2 - D Courtney
-400103, 91,CT 3 - D DeLauro
-412282, 91,CT 4 - D Himes
-412524, 94,CT 5 - D Esty
-300019,100,DE - D Carper
-412390,100,DE - D Coons
-412689, 94,DE AL - D Blunt Rochester
-300078, 71,FL - D Nelson
-412491,  0,FL - R Rubio
-412690,  9,FL 1 - R Gaetz
-412696, 94,FL 10 - D Demings
-412410,  0,FL 11 - R Webster
-412250,  6,FL 12 - R Bilirakis
-412697, 94,FL 13 - D Crist
-412195, 91,FL 14 - D Castor
-412411,  3,FL 15 - R Ross
-412196, 40,FL 16 - R Buchanan
-412311,  6,FL 17 - R Rooney
-412698, 29,FL 18 - R Mast
-412699, 20,FL 19 - R Rooney
-412691,  0,FL 2 - R Dunn
-400170, 94,FL 20 - D Hastings
-412529,100,FL 21 - D Frankel
-412385, 94,FL 22 - D Deutch
-400623,100,FL 23 - D Wasserman Schultz
-412412, 97,FL 24 - D Wilson
-400108, 17,FL 25 - R Diaz-Balart
-412621, 57,FL 26 - R Curbelo
-400344, 57,FL 27 - R Ros-Lehtinen
-412525,  0,FL 3 - R Yoho
-412692,  6,FL 4 - R Rutherford
-412693, 89,FL 5 - D Lawson
-412526,  0,FL 6 - R DeSantis
-412694, 83,FL 7 - D Murphy
-412309,  0,FL 8 - R Posey
-412695,100,FL 9 - D Soto
-400194,  7,GA - R Isakson
-412666,  7,GA - R Perdue
-412622,  0,GA 1 - R Carter
-412623,  0,GA 10 - R Hice
-412624,  0,GA 11 - R Loudermilk
-412625,  0,GA 12 - R Allen
-400363, 86,GA 13 - D Scott
-412388,  0,GA 14 - R Graves
-400030, 63,GA 2 - D Bishop
-412700,  6,GA 3 - R Ferguson
-412199,100,GA 4 - D Johnson
-400240, 97,GA 5 - D Lewis
-412737,  0,GA 6 - R Handel
-412416,  3,GA 7 - R Woodall
-412417,  3,GA 8 - R Scott
-412531,  3,GA 9 - R Collins
-412200,100,HI - D Hirono
-412507,100,HI - D Schatz
-412418, 46,HI 1 - D Hanabusa
-412532, 94,HI 2 - D Gabbard
-412667,  7,IA - R Ernst
-300048,  0,IA - R Grassley
-412627,  3,IA 1 - R Blum
-412209, 94,IA 2 - D Loebsack
-412628,  3,IA 3 - R Young
-400220,  9,IA 4 - R King
-300030,  7,ID - R Crapo
-412322,  7,ID - R Risch
-412419,  6,ID 1 - R Labrador
-400376, 14,ID 2 - R Simpson
-412533, 86,IL - D Duckworth
-300038,100,IL - D Durbin
-400350, 91,IL 1 - D Rush
-412534, 91,IL 10 - D Schneider
-412257, 94,IL 11 - D Foster
-412629,  3,IL 12 - R Bost
-412536,  6,IL 13 - R Davis
-412422,  3,IL 14 - R Hultgren
-400373,  6,IL 15 - R Shimkus
-412421,  3,IL 16 - R Kinzinger
-412537, 91,IL 17 - D Bustos
-412674,  0,IL 18 - R LaHood
-412595, 97,IL 2 - D Kelly
-400630, 91,IL 3 - D Lipinski
-400163, 91,IL 4 - D Gutiérrez
-412331, 97,IL 5 - D Quigley
-412202, 20,IL 6 - R Roskam
-400093, 97,IL 7 - D Davis
-412701, 94,IL 8 - D Krishnamoorthi
-400360,100,IL 9 - D Schakowsky
-412205, 71,IN - D Donnelly
-412428,  7,IN - R Young
-400417, 94,IN 1 - D Visclosky
-412538,  3,IN 2 - R Walorski
-412702,  0,IN 3 - R Banks
-412426,  0,IN 4 - R Rokita
-412539,  6,IN 5 - R Brooks
-412540,  0,IN 6 - R Messer
-412258, 94,IN 7 - D Carson
-412427,  3,IN 8 - R Bucshon
-412703, 11,IN 9 - R Hollingsworth
-400284, 14,KS - R Moran
-300083,  7,KS - R Roberts
-412704,  6,KS 1 - R Marshall
-412284,  0,KS 2 - R Jenkins
-412430,  3,KS 3 - R Yoder
-412735,  0,KS 4 - R Estes
-300072, 14,KY - R McConnell
-412492,  7,KY - R Paul
-412676,  0,KY 1 - R Comer
-412278,  0,KY 2 - R Guthrie
-412211, 91,KY 3 - D Yarmuth
-412503, 17,KY 4 - R Massie
-400340,  6,KY 5 - R Rogers
-412541,  0,KY 6 - R Barr
-412269,  7,LA - R Cassidy
-412679,  7,LA - R Kennedy
-412261,  0,LA 1 - R Scalise
-412432, 46,LA 2 - D Richmond
-412705,  0,LA 3 - R Higgins
-412706,  6,LA 4 - R Johnson
-412630,  0,LA 5 - R Abraham
-412631,  0,LA 6 - R Graves
-400253,100,MA - D Markey
-412542,100,MA - D Warren
-400291, 89,MA 1 - D Neal
-400263,100,MA 2 - D McGovern
-412254, 86,MA 3 - D Tsongas
-412543, 91,MA 4 - D Kennedy
-412600, 94,MA 5 - D Clark
-412632, 89,MA 6 - D Moulton
-400063, 86,MA 7 - D Capuano
-400249, 86,MA 8 - D Lynch
-412435, 89,MA 9 - D Keating
-400064,100,MD - D Cardin
-400415,100,MD - D Van Hollen
-412434,  3,MD 1 - R Harris
-400349, 94,MD 2 - D Ruppersberger
-412212, 94,MD 3 - D Sarbanes
-412707, 83,MD 4 - D Brown
-400189, 63,MD 5 - D Hoyer
-412544, 91,MD 6 - D Delaney
-400090, 89,MD 7 - D Cummings
-412708, 97,MD 8 - D Raskin
-412545, 93,ME - I King
-300025, 21,ME - R Collins
-412307, 94,ME 1 - D Pingree
-412633, 14,ME 2 - R Poliquin
-412305,100,MI - D Peters
-300093,100,MI - D Stabenow
-412709,  9,MI 1 - R Bergman
-412710,  3,MI 10 - R Mitchell
-412636,  9,MI 11 - R Trott
-412637, 94,MI 12 - D Dingell
-400080,100,MI 13 - D Conyers
-412638, 94,MI 14 - D Lawrence
-412437,  0,MI 2 - R Huizenga
-412438, 37,MI 3 - R Amash
-412634,  6,MI 4 - R Moolenaar
-412546, 94,MI 5 - D Kildee
-400414, 40,MI 6 - R Upton
-412213,  0,MI 7 - R Walberg
-412635,  3,MI 8 - R Bishop
-400238, 94,MI 9 - D Levin
-412742,100,MN - D Smith
-412242,100,MN - D Klobuchar
-412214, 14,MN 1 - D Walz
-412711,  0,MN 2 - R Lewis
-412303, 34,MN 3 - R Paulsen
-400259, 97,MN 4 - D McCollum
-412215, 74,MN 5 - D Ellison
-412639,  0,MN 6 - R Emmer
-400316, 20,MN 7 - D Peterson
-408211, 77,MN 8 - D Nolan
-412243, 79,MO - D McCaskill
-400034,  7,MO - R Blunt
-400074, 86,MO 1 - D Clay
-412548,  0,MO 2 - R Wagner
-412292,  0,MO 3 - R Luetkemeyer
-412444,  0,MO 4 - R Hartzler
-400639, 97,MO 5 - D Cleaver
-400158,  0,MO 6 - R Graves
-412445,  3,MO 7 - R Long
-412596,  3,MO 8 - R Smith
-412743,  8,MS - R Hyde-Smith
-400432,  7,MS - R Wicker
-412673,  0,MS 1 - R Kelly
-400402, 86,MS 2 - D Thompson
-412280,  3,MS 3 - R Harper
-412443,  0,MS 4 - R Palazzo
-412244, 93,MT - D Tester
-412549, 14,MT - R Daines
-412736,  3,MT AL - R Gianforte
-400054, 14,NC - R Burr
-412668,  7,NC - R Tillis
-400616, 91,NC 1 - D Butterfield
-400644,  9,NC 10 - R McHenry
-412552,  0,NC 11 - R Meadows
-412607, 94,NC 12 - D Adams
-412712,  3,NC 13 - R Budd
-412553,  3,NC 2 - R Holding
-400209, 14,NC 3 - R Jones
-400326, 94,NC 4 - D Price
-400643,  3,NC 5 - R Foxx
-412670,  0,NC 6 - R Walker
-412641,  3,NC 7 - R Rouzer
-412550,  0,NC 8 - R Hudson
-412551,  0,NC 9 - R Pittenger
-412554, 50,ND - D Heitkamp
-412494,  7,ND - R Hoeven
-412555,  3,ND AL - R Cramer
-412556,  7,NE - R Fischer
-412671, 14,NE - R Sasse
-400640, 20,NE 1 - R Fortenberry
-412713,  6,NE 2 - R Bacon
-412217,  3,NE 3 - R Smith
-412680,100,NH - D Hassan
-412323, 93,NH - D Shaheen
-412219, 89,NH 1 - D Shea-Porter
-412557, 89,NH 2 - D Kuster
-412598,100,NJ - D Booker
-400272,100,NJ - D Menéndez
-412606, 86,NJ 1 - D Norcross
-412506, 91,NJ 10 - D Payne
-400142, 17,NJ 11 - R Frelinghuysen
-412644, 94,NJ 12 - D Watson Coleman
-400244, 51,NJ 2 - R LoBiondo
-412643, 23,NJ 3 - R MacArthur
-400380, 60,NJ 4 - R Smith
-412714, 80,NJ 5 - D Gottheimer
-400308, 91,NJ 6 - D Pallone
-412290, 60,NJ 7 - R Lance
-412186, 89,NJ 8 - D Sires
-400309, 91,NJ 9 - D Pascrell
-412281, 93,NM - D Heinrich
-400413,100,NM - D Udall
-412558, 91,NM 1 - D Lujan Grisham
-400313,  0,NM 2 - R Pearce
-412293, 97,NM 3 - D Luján
-412681,100,NV - D Cortez Masto
-412218,  7,NV - R Heller
-412318, 89,NV 1 - D Titus
-412500, 14,NV 2 - R Amodei
-412715, 94,NV 3 - D Rosen
-412716, 97,NV 4 - D Kihuen
-412223,100,NY - D Gillibrand
-300087,100,NY - D Schumer
-412646,  9,NY 1 - R Zeldin
-400289,100,NY 10 - D Nadler
-412672, 26,NY 11 - R Donovan
-400251, 97,NY 12 - D Maloney
-412718,100,NY 13 - D Espaillat
-400087, 86,NY 14 - D Crowley
-400366,100,NY 15 - D Serrano
-400122,100,NY 16 - D Engel
-400246, 91,NY 17 - D Lowey
-412562, 89,NY 18 - D Maloney
-412719, 37,NY 19 - R Faso
-400219, 29,NY 2 - R King
-412319, 94,NY 20 - D Tonko
-412648, 51,NY 21 - R Stefanik
-412720,  6,NY 22 - R Tenney
-412393, 17,NY 23 - R Reed
-412649, 43,NY 24 - R Katko
-412749,100,NY 25 - D Morelle
-400641, 91,NY 26 - D Higgins
-412563,  9,NY 27 - R Collins
-412717, 97,NY 3 - D Suozzi
-412647, 91,NY 4 - D Rice
-400271,100,NY 5 - D Meeks
-412560,100,NY 6 - D Meng
-400416,100,NY 7 - D Velázquez
-412561, 91,NY 8 - D Jeffries
-412221,100,NY 9 - D Clarke
-400050,100,OH - D Brown
-412464,  7,OH - R Portman
-400071,  3,OH 1 - R Chabot
-400411, 14,OH 10 - R Turner
-412327, 89,OH 11 - D Fudge
-400406,  0,OH 12 - R Tiberi
-400352, 94,OH 13 - D Ryan
-412566, 14,OH 14 - R Joyce
-412461, 11,OH 15 - R Stivers
-412462,  3,OH 16 - R Renacci
-412564,  0,OH 2 - R Wenstrup
-412565, 83,OH 3 - D Beatty
-412226,  3,OH 4 - R Jordan
-412256,  0,OH 5 - R Latta
-412460,  0,OH 6 - R Johnson
-412463,  0,OH 7 - R Gibbs
-412675,  3,OH 8 - R Davidson
-400211, 94,OH 9 - D Kaptur
-300055, 14,OK - R Inhofe
-412464,  7,OK - R Lankford
-412748,  0,OK 1 - R Hern
-412568,  3,OK 2 - R Mullin
-400247,  6,OK 3 - R Lucas
-400077,  9,OK 4 - R Cole
-412650,  6,OK 5 - R Russell
-412325,100,OR - D Merkley
-300100,100,OR - D Wyden
-412501, 97,OR 1 - D Bonamici
-400419,  6,OR 2 - R Walden
-400033, 97,OR 3 - D Blumenauer
-400100, 97,OR 4 - D DeFazio
-412315, 63,OR 5 - D Schrader
-412246, 93,PA - D Casey
-400408,  0,PA - R Toomey
-400047, 86,PA 1 - D Brady
-412468,  6,PA 10 - R Marino
-412469,  6,PA 11 - R Barletta
-412570,  6,PA 12 - R Rothfus
-412652, 91,PA 13 - D Boyle
-400114, 91,PA 14 - D Doyle
-400648,  0,PA 15 - R Dent
-412722,  3,PA 16 - R Smucker
-412571, 91,PA 17 - D Cartwright
-412744, 82,PA 18 - D Lamb
-412677, 94,PA 2 - D Evans
-412465,  6,PA 3 - R Kelly
-412569,  3,PA 4 - R Perry
-412317,  3,PA 5 - R Thompson
-412651, 43,PA 6 - R Costello
-412751,100,PA 7 - D Wild
-412721, 83,PA 8 - R Fitzpatrick
-409888,  3,PA 9 - R Shuster
-300081,100,RI - D Reed
-412247,100,RI - D Whitehouse
-412470,100,RI 1 - D Cicilline
-400230, 94,RI 2 - D Langevin
-300047,  7,SC - R Graham
-412471,  7,SC - R Scott
-400607, 40,SC 1 - R Sanford
-400433,  3,SC 2 - R Wilson
-412472,  0,SC 3 - R Duncan
-412473,  3,SC 4 - R Gowdy
-412738,  0,SC 5 - R Norman
-400075, 94,SC 6 - D Clyburn
-412572,  0,SC 7 - R Rice
-412669,  7,SD - R Rounds
-400546, 14,SD - R Thune
-412475,  3,SD AL - R Noem
-300002,  7,TN - R Alexander
-412248,  7,TN - R Corker
-412310,  3,TN 1 - R Roe
-400116,  9,TN 2 - R Duncan
-412476,  3,TN 3 - R Fleischmann
-412477,  3,TN 4 - R DesJarlais
-400081, 86,TN 5 - D Cooper
-412478,  3,TN 6 - R Black
-400032,  3,TN 7 - R Blackburn
-412724,  0,TN 8 - R Kustoff
-412236, 94,TN 9 - D Cohen
-300027,  7,TX - R Cornyn
-412573, 14,TX - R Cruz
-400651,  3,TX 1 - R Gohmert
-400654,  3,TX 10 - R McCaul
-400655,  3,TX 11 - R Conaway
-400157,  6,TX 12 - R Granger
-400404,  3,TX 13 - R Thornberry
-412574,  6,TX 14 - R Weber
-412725, 74,TX 15 - D Gonzalez
-412575, 94,TX 16 - D O'Rourke
-412480,  3,TX 17 - R Flores
-400199, 97,TX 18 - D Jackson Lee
-412726,  0,TX 19 - R Arrington
-400652,  0,TX 2 - R Poe
-412576, 97,TX 20 - D Castro
-400381,  3,TX 21 - R Smith
-412302,  0,TX 22 - R Olson
-412654, 20,TX 23 - R Hurd
-400656,  3,TX 24 - R Marchant
-412578,  0,TX 25 - R Williams
-400052,  0,TX 26 - R Burgess
-412746,  0,TX 27 - R Cloud
-400657, 49,TX 28 - D Cuellar
-400160, 83,TX 29 - D Green
-400206,  0,TX 3 - R Johnson
-400204, 94,TX 30 - D Johnson
-400068,  6,TX 31 - R Carter
-400367,  3,TX 32 - R Sessions
-412579, 89,TX 33 - D Veasey
-412580, 80,TX 34 - D Vela
-400111,100,TX 35 - D Doggett
-412655,  3,TX 36 - R Babin
-412653,  0,TX 4 - R Ratcliffe
-400175,  0,TX 5 - R Hensarling
-400018,  6,TX 6 - R Barton
-400089,  6,TX 7 - R Culberson
-400046,  3,TX 8 - R Brady
-400653, 97,TX 9 - D Green
-300052,  7,UT - R Hatch
-412495,  7,UT - R Lee
-400029,  3,UT 1 - R Bishop
-412581,  3,UT 2 - R Stewart
-412740,  0,UT 3 - R Curtis
-412656, 17,UT 4 - R Love
-412582,100,VA - D Kaine
-412321,100,VA - D Warner
-412255,  6,VA 1 - R Wittman
-412658, 14,VA 10 - R Comstock
-412272, 94,VA 11 - D Connolly
-412727,  9,VA 2 - R Taylor
-400364, 94,VA 3 - D Scott
-412728, 86,VA 4 - D McEachin
-412729,  9,VA 5 - R Garrett
-400154,  0,VA 6 - R Goodlatte
-412605,  0,VA 7 - R Brat
-412657, 86,VA 8 - D Beyer
-412485,  3,VA 9 - R Griffith
-300065,100,VT - D Leahy
-400357,100,VT - I Sanders
-412239, 94,VT AL - D Welch
-300018,100,WA - D Cantwell
-300076,100,WA - D Murray
-412505, 94,WA 1 - D DelBene
-412584, 94,WA 10 - D Heck
-400232, 89,WA 2 - D Larsen
-412486, 11,WA 3 - R Herrera Beutler
-412660,  6,WA 4 - R Newhouse
-400659,  6,WA 5 - R McMorris Rodgers
-412583, 94,WA 6 - D Kilmer
-412730, 94,WA 7 - D Jayapal
-400660, 26,WA 8 - R Reichert
-400379,100,WA 9 - D Smith
-400013,100,WI - D Baldwin
-412496,  0,WI - R Johnson
-412585,100,WI 2 - D Pocan
-400218, 89,WI 3 - D Kind
-400661, 94,WI 4 - D Moore
-400365,  6,WI 5 - R Sensenbrenner
-412661,  3,WI 6 - R Grothman
-412488,  0,WI 7 - R Duffy
-412731,  0,WI 8 - R Gallagher
-412391, 43,WV - D Manchin
-400061,  7,WV - R Capito
-412487, 11,WV 1 - R McKinley
-412662,  0,WV 2 - R Mooney
-412663,  9,WV 3 - R Jenkins
-412251,  7,WY - R Barrasso
-300041,  7,WY - R Enzi
-412732,  0,WY AL - R Cheney
+412607,98, Alma Adams
+400004,3, Robert Aderholt
+412615,96, Pete Aguilar
+412625,1, Rick Allen
+412828,93, Colin Allred
+412500,5, Mark Amodei
+412794,10, Kelly Armstrong
+412726,2, Jody Arrington
+412772,93, Cynthia Axne
+412655,2, Brian Babin
+412713,14, Don Bacon
+412777,3, James Baird
+412747,3, Troy Balderson
+400013,97, Tammy Baldwin
+412702,1, Jim Banks
+412541,3, Garland Barr
+412687,97, Nanette Barragan
+412251,8, John Barrasso
+412404,88, Karen Bass
+412565,95, Joyce Beatty
+412330,89, Michael Bennet
+412512,93, Ami Bera
+412709,10, Jack Bergman
+412486,10, Jaime Herrera Beutler
+412657,10, Don Beyer
+412683,6, Andy Biggs
+412250,9, Gus Bilirakis
+400030,53, Sanford Bishop
+400032,3, Marsha Blackburn
+400033,96, Earl Blumenauer
+412490,98, Richard Blumenthal
+400034,6, Roy Blunt
+412501,98, Suzanne Bonamici
+412598,91, Cory Booker
+400040,7, John Boozman
+412629,5, Mike Bost
+412652,97, Brendan Boyle
+400046,3, Kevin Brady
+412839,7, Mike Braun
+412395,8, Mo Brooks
+412707,93, Anthony Brown
+400050,94, Sherrod Brown
+412516,96, Julia Brownley
+412196,22, Vern Buchanan
+412619,3, Ken Buck
+412427,6, Larry Bucshon
+412712,3, Ted Budd
+412817,10, Tim Burchett
+400052,3, Michael Burgess
+400054,9, Richard Burr
+412537,89, Cheri Bustos
+400616,90, G. Butterfield
+400057,7, Ken Calvert
+300018,93, Maria Cantwell
+400061,17, Shelley Moore Capito
+412686,93, Salud Carbajal
+412517,93, Tony Cardenas
+400064,92, Benjamin Cardin
+300019,84, Thomas Carper
+412622,3, Earl Carter
+400068,4, John Carter
+412571,96, Matt Cartwright
+400069,94, Ed Case
+412246,93, Robert Casey
+412269,7, Bill Cassidy
+412775,97, Sean Casten
+412195,93, Kathy Castor
+412576,95, Joaquin Castro
+400071,11, Steve Chabot
+412732,1, Liz Cheney
+412379,97, Judy Chu
+412470,98, David Cicilline
+412600,96, Katherine Clark
+412221,95, Yvette Clarke
+400639,89, Emanuel Cleaver
+412832,0, Ben Cline
+412746,0, Michael Cloud
+400075,85, James Clyburn
+412236,97, Steve Cohen
+400077,7, Tom Cole
+412644,97, Bonnie Coleman
+300025,61, Susan Collins
+412676,4, James Comer
+412272,97, Gerald Connolly
+412390,94, Christopher Coons
+400081,83, Jim Cooper
+300027,5, John Cornyn
+412688,92, Luis Correa
+400618,51, Jim Costa
+412508,3, Tom Cotton
+412193,96, Joe Courtney
+412789,97, Angie Craig
+412555,2, Kevin Cramer
+300030,6, Mike Crapo
+412400,5, Eric Crawford
+412820,10, Dan Crenshaw
+412697,91, Charlie Crist
+412762,97, Jason Crow
+412573,4, Ted Cruz
+400657,45, Henry Cuellar
+412740,2, John Curtis
+412549,6, Steve Daines
+412780,97, Sharice Davids
+412675,2, Warren Davidson
+400093,93, Danny Davis
+412536,7, Rodney Davis
+412809,97, Madeleine Dean
+400100,92, Peter DeFazio
+400101,96, Diana DeGette
+400103,95, Rosa DeLauro
+412505,95, Suzan DelBene
+412805,97, Antonio Delgado
+412696,96, Val Demings
+412613,99, Mark DeSaulnier
+412477,2, Scott DesJarlais
+412385,91, Theodore Deutch
+400108,13, Mario Diaz-Balart
+412637,97, Debbie Dingell
+400111,97, Lloyd Doggett
+400114,79, Michael Doyle
+412796,, Jeff Van Drew
+412533,90, Tammy Duckworth
+412472,3, Jeff Duncan
+412691,4, Neal Dunn
+300038,88, Richard Durbin
+412639,2, Tom Emmer
+412667,3, Joni Ernst
+412825,97, Veronica Escobar
+400124,97, Anna Eshoo
+412718,99, Adriano Espaillat
+412735,5, Ron Estes
+412677,95, Dwight Evans
+300043,90, Dianne Feinstein
+412700,4, Drew Ferguson
+412556,6, Deb Fischer
+412721,80, Brian Fitzpatrick
+412476,4, Charles Fleischmann
+412824,79, Lizzie Fletcher
+400640,19, Jeff Fortenberry
+412257,94, Bill Foster
+400643,4, Virginia Foxx
+412529,98, Lois Frankel
+412327,93, Marcia Fudge
+412773,3, Russ Fulcher
+412690,12, Matt Gaetz
+412731,5, Mike Gallagher
+412612,97, Ruben Gallego
+412382,90, John Garamendi
+412774,100, Jesus Garcia
+412827,90, Sylvia Garcia
+412463,3, Bob Gibbs
+412223,95, Kirsten Gillibrand
+400651,4, Louie Gohmert
+412842,97, Jared Golden
+412739,97, Jimmy Gomez
+412807,21, Anthony Gonzalez
+412725,77, Vicente Gonzalez
+412822,7, Lance Gooden
+412397,5, Paul Gosar
+412714,86, Josh Gottheimer
+300047,13, Lindsey Graham
+400157,5, Kay Granger
+300048,18, Chuck Grassley
+412631,5, Garret Graves
+400158,4, Sam Graves
+400653,86, Al Green
+412819,0, Mark Green
+412485,5, H. Morgan Griffith
+400162,96, Raul Grijalva
+412661,2, Glenn Grothman
+412793,10, Michael Guest
+412278,5, Brett Guthrie
+412800,97, Debra Haaland
+412788,7, James Hagedorn
+412754,97, Josh Harder
+412434,3, Andy Harris
+412678,91, Kamala Harris
+412444,3, Vicky Hartzler
+412680,100, Margaret Hassan
+400170,84, Alcee Hastings
+412840,7, Josh Hawley
+412763,97, Jahana Hayes
+412281,94, Martin Heinrich
+412748,3, Kevin Hern
+412623,0, Jody Hice
+400641,95, Brian Higgins
+412705,1, Clay Higgins
+412609,5, French Hill
+412282,95, James Himes
+412200,95, Mazie Hirono
+412494,8, John Hoeven
+400415,98, Chris Van Hollen
+412703,16, Trey Hollingsworth
+412559,93, Steven Horsford
+412810,97, Chrissy Houlahan
+400189,82, Steny Hoyer
+412550,2, Richard Hudson
+412511,98, Jared Huffman
+412437,3, Bill Huizenga
+412743,19, Cindy Hyde-Smith
+300055,5, James Inhofe
+400199,82, Sheila Jackson-Lee
+412730,97, Pramila Jayapal
+412561,95, Hakeem Jeffries
+412460,3, Bill Johnson
+412816,7, Dusty Johnson
+400204,86, Eddie Johnson
+412199,96, Henry Johnson
+412706,3, Mike Johnson
+412496,3, Ron Johnson
+412226,3, Jim Jordan
+412566,10, David Joyce
+412812,3, John Joyce
+412582,95, Tim Kaine
+400211,83, Marcy Kaptur
+412649,31, John Katko
+412435,96, William Keating
+412843,4, Fred Keller
+412465,4, Mike Kelly
+412595,94, Robin Kelly
+412673,1, Trent Kelly
+412679,4, John Kennedy
+412684,98, Ro Khanna
+412546,96, Daniel Kildee
+412583,94, Derek Kilmer
+412797,97, Andy Kim
+400218,90, Ron Kind
+412545,91, Angus King
+412421,7, Adam Kinzinger
+412286,71, Ann Kirkpatrick
+412242,94, Amy Klobuchar
+412701,97, Raja Krishnamoorthi
+412557,94, Ann Kuster
+412724,3, David Kustoff
+412674,1, Darin LaHood
+412510,2, Doug LaMalfa
+412744,85, Conor Lamb
+412191,3, Doug Lamborn
+400230,96, James Langevin
+412464,5, James Lankford
+400232,91, Rick Larsen
+400233,93, John Larson
+412256,3, Robert Latta
+412638,96, Brenda Lawrence
+412693,84, Al Lawson
+300065,94, Patrick Leahy
+400237,97, Barbara Lee
+412802,97, Susie Lee
+412495,7, Mike Lee
+412745,2, Debbie Lesko
+412785,100, Andy Levin
+412760,97, Mike Levin
+412616,91, Ted Lieu
+412410,91, Daniel Lipinski
+400245,92, Zoe Lofgren
+412445,3, Billy Long
+412624,1, Barry Loudermilk
+412521,98, Alan Lowenthal
+400247,5, Frank Lucas
+412292,3, Blaine Luetkemeyer
+412293,96, Ben Lujan
+412830,97, Elaine Luria
+400249,95, Stephen Lynch
+412798,97, Tom Malinowski
+400251,96, Carolyn Maloney
+412562,89, Sean Maloney
+412391,49, Joe Manchin
+400253,94, Edward Markey
+412704,6, Roger Marshall
+412503,11, Thomas Massie
+412698,29, Brian Mast
+412681,96, Catherine Cortez Masto
+400663,96, Doris Matsui
+412769,97, Lucy McBath
+412190,3, Kevin McCarthy
+400654,6, Michael McCaul
+412295,4, Tom McClintock
+400259,94, Betty McCollum
+300072,7, Mitch McConnell
+412728,90, Donald McEachin
+400263,99, James McGovern
+400644,5, Patrick McHenry
+412487,6, David McKinley
+412189,94, Jerry McNerney
+400271,90, Gregory Meeks
+400272,95, Robert Menendez
+412560,97, Grace Meng
+412325,99, Jeff Merkley
+412811,7, Dan Meuser
+412837,7, Carol Miller
+412634,6, John Moolenaar
+412662,2, Alexander Mooney
+400661,94, Gwen Moore
+400284,8, Jerry Moran
+412749,97, Joseph Morelle
+412632,96, Seth Moulton
+412568,1, Markwayne Mullin
+300075,18, Lisa Murkowski
+412845,14, Gregory Murphy
+412694,90, Stephanie Murphy
+412194,97, Christopher Murphy
+300076,91, Patty Murray
+400289,97, Jerrold Nadler
+400290,90, Grace Napolitano
+400291,92, Richard Neal
+412761,97, Joseph Neguse
+412660,4, Dan Newhouse
+412606,93, Donald Norcross
+412738,2, Ralph Norman
+400297,3, Devin Nunes
+400295,100,Eleanor Holmes Norton
+412804,97, Alexandria Ocasio-Cortez
+412682,90, Tom O'Halleran
+412791,97, Ilhan Omar
+412443,3, Steven Palazzo
+400308,96, Frank Pallone
+412608,1, Gary Palmer
+412685,96, Jimmy Panetta
+412795,97, Christopher Pappas
+400309,94, Bill Pascrell
+412492,8, Rand Paul
+412506,91, Donald Payne
+400314,94, Nancy Pelosi
+412778,10, Greg Pence
+412192,87, Ed Perlmutter
+412569,3, Scott Perry
+412523,93, Scott Peters
+412305,93, Gary Peters
+412790,97, Dean Phillips
+412307,96, Chellie Pingree
+412585,97, Mark Pocan
+412758,90, Katie Porter
+400325,20, Rob Portman
+412309,5, Bill Posey
+412782,97, Ayanna Pressley
+400326,92, David Price
+412331,98, Mike Quigley
+412708,99, Jamie Raskin
+412393,10, Tom Reed
+300081,97, Jack Reed
+412813,7, Guy Reschenthaler
+412647,94, Kathleen Rice
+412572,2, Tom Rice
+412432,76, Cedric Richmond
+412322,7, James Risch
+412689,96, Lisa Rochester
+400659,4, Cathy McMorris Rodgers
+400340,8, Harold Rogers
+400341,5, Mike Rogers
+412841,14, Mitt Romney
+412818,3, John Rose
+412715,96, Jacky Rosen
+412669,6, Mike Rounds
+412641,2, David Rouzer
+412826,0, Chip Roy
+400347,95, Lucille Roybal-Allard
+412491,5, Marco Rubio
+412519,94, Raul Ruiz
+400349,88, C.A. Ruppersberger
+400350,80, Bobby Rush
+412692,8, John Rutherford
+400352,90, Tim Ryan
+400355,94, Linda Sanchez
+400357,91, Bernard Sanders
+412212,96, John Sarbanes
+412671,2, Ben Sasse
+412261,3, Steve Scalise
+412750,97, Mary Scanlon
+400360,98, Janice Schakowsky
+412507,97, Brian Schatz
+400361,98, Adam Schiff
+412534,94, Bradley Schneider
+412315,72, Kurt Schrader
+412835,97, Kim Schrier
+400623,93, Debbie Wasserman Schultz
+300087,92, Charles Schumer
+412399,5, David Schweikert
+412417,3, Austin Scott
+400363,83, David Scott
+400364,91, Robert Scott
+412838,7, Rick Scott
+412471,4, Tim Scott
+412396,80, Terri Sewell
+412323,96, Jeanne Shaheen
+300089,13, Richard Shelby
+400371,97, Brad Sherman
+412799,93, Mikie Sherrill
+400376,9, Michael Simpson
+412509,77, Kyrsten Sinema
+412186,91, Albio Sires
+412784,97, Elissa Slotkin
+400379,91, Adam Smith
+412217,4, Adrian Smith
+400380,61, Christopher Smith
+412596,1, Jason Smith
+412742,100, Tina Smith
+412722,4, Lloyd Smucker
+412695,99, Darren Soto
+412833,97, Abigail Spanberger
+412259,91, Jackie Speier
+300093,89, Debbie Stabenow
+412753,97, Greg Stanton
+412792,7, Pete Stauber
+412648,37, Elise Stefanik
+412836,21, Bryan Steil
+412766,7, Greg Steube
+412786,93, Haley Stevens
+412581,3, Chris Stewart
+412461,7, Steve Stivers
+412665,8, Dan Sullivan
+412717,97, Thomas Suozzi
+412514,91, Eric Swalwell
+412520,98, Mark Takano
+412821,7, Van Taylor
+412244,88, Jon Tester
+400402,82, Bennie Thompson
+412317,5, Glenn Thompson
+400403,93, Mike Thompson
+400546,11, John Thune
+412668,9, Thom Tillis
+412815,10, William Timmons
+412318,95, Dina Titus
+412787,97, Rashida Tlaib
+412319,97, Paul Tonko
+400408,5, Pat Toomey
+412617,96, Norma Torres
+412781,97, Lori Trahan
+412783,97, David Trone
+400411,9, Michael Turner
+412776,97, Lauren Underwood
+400414,27, Fred Upton
+412522,96, Juan Vargas
+412579,89, Marc Veasey
+412580,75, Filemon Vela
+400416,94, Nydia Velazquez
+412548,3, Ann Wagner
+412213,4, Tim Walberg
+412538,3, Jackie Walorski
+412764,34, Michael Waltz
+412321,88, Mark Warner
+412542,96, Elizabeth Warren
+400422,91, Maxine Waters
+412574,10, Randy Weber
+412410,6, Daniel Webster
+412239,94, Peter Welch
+412564,2, Brad Wenstrup
+412610,1, Bruce Westerman
+412834,97, Jennifer Wexton
+412247,97, Sheldon Whitehouse
+400432,5, Roger Wicker
+412751,97, Susan Wild
+412578,1, Roger Williams
+412412,91, Frederica Wilson
+400433,3, Joe Wilson
+412255,10, Robert Wittman
+412402,4, Steve Womack
+412823,7, Ron Wright
+300100,91, Ron Wyden
+412211,94, John Yarmuth
+400440,8, Don Young
+412428,5, Todd Young
+412646,13, Lee Zeldin
+
