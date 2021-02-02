@@ -129,7 +129,7 @@ type: percent
 412648,40, Elise Stefanik
 412784,100, Elissa Slotkin
 400639,97, Emanuel Cleaver
-412400,, Eric Crawford
+412400,0, Eric Crawford
 412514,100, Eric Swalwell
 412580,100, Filemon Vela
 400247,0, Frank Lucas
@@ -139,7 +139,7 @@ type: percent
 412412,100, Frederica Wilson
 412609,0, French Hill
 400616,88, G. Butterfield
-412541,, Garland Barr
+412541,0, Garland Barr
 412631,0, Garret Graves
 412608,0, Gary Palmer
 412272,100, Gerald Connolly
@@ -151,7 +151,6 @@ type: percent
 412753,100, Greg Stanton
 412766,0, Greg Steube
 400271,100, Gregory Meeks
-412845,, Gregory Murphy
 412250,0, Gus Bilirakis
 412813,0, Guy Reschenthaler
 400661,97, Gwen Moore
